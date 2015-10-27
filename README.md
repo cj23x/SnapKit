@@ -34,4 +34,4 @@ class MyViewController: UIViewController {
 
 ## License
 
-MIT license. See the `LICENSE` file for details.
+MIT license. See the `LICENSE` file for details. 
